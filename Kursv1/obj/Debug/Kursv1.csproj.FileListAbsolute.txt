@@ -1,0 +1,17 @@
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\bin\Debug\Kursv1.exe.config
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\bin\Debug\Kursv1.exe
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\bin\Debug\Kursv1.pdb
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\App.g.cs
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1_MarkupCompile.cache
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1_MarkupCompile.lref
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\MainWindow.baml
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.g.resources
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.exe
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\Kursv1.pdb
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\TaskWindow.g.cs
+C:\Users\Михаил\source\repos\Kursv1\Kursv1\obj\Debug\TaskWindow.baml
