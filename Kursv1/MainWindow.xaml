@@ -14,13 +14,13 @@
                 <DataTemplate>
                     <WrapPanel>
                         <TextBlock Text="{Binding vopros}"/>
-                        <TextBlock Text=" a) "/>
+                        <TextBlock Text=" A) "/>
                         <TextBlock Text="{Binding va}"/>
-                        <TextBlock Text=" b) "/>
+                        <TextBlock Text=" B) "/>
                         <TextBlock Text="{Binding vb}"/>
-                        <TextBlock Text=" c) "/>
+                        <TextBlock Text=" C) "/>
                         <TextBlock Text="{Binding vc}"/>
-                        <TextBlock Text=" d) "/>
+                        <TextBlock Text=" D) "/>
                         <TextBlock Text="{Binding vd}"/>
                         <TextBlock Text=" ; "/>
 

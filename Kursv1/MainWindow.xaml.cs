@@ -22,11 +22,10 @@ namespace Kursv1
     /// </summary>
     public partial class MainWindow : Window
     {
-
+        
         public int numer_;
         _Inf_struct _Inf_data = new _Inf_struct();
         List<Inf_class> Inf_data = new List<Inf_class>();
-
         public struct StrVar
         {
             public string _strvar { get; set; }
@@ -44,7 +43,7 @@ namespace Kursv1
         public MainWindow()
         {
             InitializeComponent();
-
+            
         }
         private void But(object sender, RoutedEventArgs e)
         {
@@ -63,7 +62,7 @@ namespace Kursv1
                 Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();
                 dlg.DefaultExt = ".txt";
                
-                dlg.Filter = "txt files (*.txt)|*.txt";
+                dlg.Filter = "txt files (*.txt)|*.txt" ;
                 Nullable<bool> result = dlg.ShowDialog();
                 if (result == true)
                 {
@@ -71,9 +70,10 @@ namespace Kursv1
                 }
                 
                 int numer = 0;
-                using (StreamReader sr = new StreamReader(Path_inf, System.Text.Encoding.Default))
+                using (StreamReader sr = new StreamReader(Path_inf,System.Text.Encoding.UTF8))
                 {
                     string line, _line;
+                   
                     while ((line = sr.ReadLine()) != null)
                     {
                         _line = line;

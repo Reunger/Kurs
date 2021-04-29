@@ -71,7 +71,7 @@ namespace Kursv1
                     Path_inf = dlg.FileName;
                 }
                 int numer = 0;
-                using (StreamReader sr = new StreamReader(Path_inf, System.Text.Encoding.Default))
+                using (StreamReader sr = new StreamReader(Path_inf, System.Text.Encoding.UTF8))
                 {
                     inf_text1.Clear();
                     string line, _line, temp = String.Empty;

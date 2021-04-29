@@ -12,7 +12,7 @@
         <Button Content="B" HorizontalAlignment="Left" Height="32" Margin="289,127,0,0" VerticalAlignment="Top" Width="63" Click="Button_Click"/>
         <Button Content="C" HorizontalAlignment="Left" Height="32" Margin="289,164,0,0" VerticalAlignment="Top" Width="63" Click="Button_Click"/>
         <Button Content="D" HorizontalAlignment="Left" Height="32" Margin="289,201,0,0" VerticalAlignment="Top" Width="63" Click="Button_Click"/>
-        <ListView x:Name="Otvet_list" HorizontalAlignment="Left" Height="399" Margin="367,10,0,0" VerticalAlignment="Top" Width="261" />
+        <ListView x:Name="Otvet_list" HorizontalAlignment="Left" Height="400" Margin="368,9,0,0" VerticalAlignment="Top" Width="260" />
         <Button Content="Загрузить ответы" HorizontalAlignment="Left" Margin="648,357,0,0" VerticalAlignment="Top" Width="134" Height="39" Click="Button_Click_1"/>
         <Button Content="Рассчитать" HorizontalAlignment="Left" Height="28" Margin="659,168,0,0" VerticalAlignment="Top" Width="95" Click="Sravnit"/>
         <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Height="32" Margin="659,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="92"/>
